@@ -12,5 +12,9 @@
     <li>Visual Studio Code;</li>
   </ul>
   <h2>Captura de Tela</h2>
-  ![Captura de pela da calculadora pronta](https://github.com/silpastre/ProjetoCalculadora/blob/master/calculadora.png)
+  <p>
+    <img alt="Captura de tela da calculadora pronta" width="300" heigth="300" src="CapturadeTela/calculadora.png">
+  </p>
+  <h2>Status do Projeto</h2>
+  <p>Projeto finalizado!</p>
 </html>
