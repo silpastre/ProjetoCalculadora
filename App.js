@@ -59,6 +59,9 @@ export default function App() {
           setCurrentNumber(Math.abs(currentNumber))
         }
         return
+      case '%':
+        setLastNumber(currentNumber / 100)
+        return
     }
 
     setCurrentNumber(currentNumber + buttonPressed)
