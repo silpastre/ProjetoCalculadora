@@ -1,7 +1,7 @@
 <html>
   <h1>ProjetoCalculadora</h1>
   <h2>Descrição</h2>
-  <p>Projeto de Calculadora com react native para Android com principais comandos de soma, subtração, multiplicação e divisão, além de ter impementado comando de alterar sinal (+/-) e porcentagem (%), bem como funções de deletar e limpar.</p>
+  <p>Projeto de Calculadora com react native para Android com principais comandos de soma, subtração, multiplicação e divisão, além de ter implementado comando de alterar sinal (+/-) e porcentagem (%), bem como funções de deletar e limpar.</p>
   <p>Aplicativo criado na versão 0.63.3 do react native, porém também funciona em versões posteriores a essa.</p>
   <h2>Requisitos</h2>
   <ul>
