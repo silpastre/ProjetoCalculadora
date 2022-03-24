@@ -52,7 +52,12 @@ export default function App() {
         calculator()
         return
       case '+/-':
-        setCurrentNumber("-" + currentNumber)
+        if (currentNumber > 0) {
+          setCurrentNumber("-" + currentNumber)
+        }
+        else if (currentNumber < 0) {
+          setCurrentNumber(Math.abs(currentNumber))
+        }
         return
     }
 
