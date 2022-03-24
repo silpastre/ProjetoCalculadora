@@ -12,4 +12,5 @@
     <li>Visual Studio Code;</li>
   </ul>
   <h2>Captura de Tela</h2>
+  ![Captura de pela da calculadora pronta](https://github.com/silpastre/ProjetoCalculadora/blob/master/calculadora.png)
 </html>
